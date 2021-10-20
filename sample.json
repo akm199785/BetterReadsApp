@@ -1,0 +1,45 @@
+{
+  "description": {
+    "type": "/type/text",
+    "value": "Locked out of the school while Joe and his friends are inside, Wishbone imagines himself as D'Artagnan, a young seventeenth-century Frenchman who achieves his dream of becoming one of the prestigious musketeers who guard the king and his court."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-11-26T04:40:38.273750"
+  },
+  "title": "Muttketeer!",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-12-09T19:03:27.899466"
+  },
+  "covers": [
+    3739650
+  ],
+  "subject_places": [
+    "France"
+  ],
+  "subjects": [
+    "Juvenile fiction",
+    "Adventure and adventurers",
+    "Dogs",
+    "History",
+    "Fiction"
+  ],
+  "latest_revision": 10,
+  "key": "/works/OL1000043W",
+  "authors": [
+    {
+      "type": "/type/author_role",
+      "author": {
+        "key": "/authors/OL92934A"
+      }
+    }
+  ],
+  "subject_times": [
+    "Louis XIII, 1610-1643"
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 10
+}
